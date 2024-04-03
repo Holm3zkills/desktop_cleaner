@@ -25,4 +25,4 @@ Contributions, ideas, and feedback are welcome! Please feel free to open an issu
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE]([LICENSE](https://github.com/Holm3zkills/desktop_cleaner/blob/bd7cfbb5cf545c1e1ce0d4a0218d540239f6f105/license)) file for details.
